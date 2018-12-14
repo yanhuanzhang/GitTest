@@ -8,3 +8,8 @@ git stash\\\
 
 
 我在练习git pull和git push
+
+好像用户1已经修改完毕，我现在已经把他修改后的版本git pull下来了
+好了，处理完成
+git add .
+git commit --no-ff -m"用户2采用 非快速模式进行提交，便于查看历史分支"
